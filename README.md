@@ -50,7 +50,7 @@ The project implements logging into the account on the robota.ua website, switch
 
 ## Configuration
 
-Enter your login and password in the data.txt file
+Enter your login, password and time in the data.txt file
 
 ## Usage
 
