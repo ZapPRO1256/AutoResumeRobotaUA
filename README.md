@@ -39,7 +39,7 @@ The project implements logging into the account on the robota.ua website, switch
 
  ```bash
  python -m venv .venv
- source venv/bin/activate # for Windows: .venv\Scripts\activate
+ source .venv/bin/activate # for Windows: .venv\Scripts\activate
  ```
 
 4. Installation of dependencies
