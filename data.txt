@@ -1,0 +1,3 @@
+username=penokzenok@gmail.com
+password=adminPRO1256@!
+time=60
