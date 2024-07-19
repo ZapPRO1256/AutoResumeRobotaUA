@@ -17,7 +17,7 @@ The project implements logging into the account on the robota.ua website, switch
 ## Requirements
 
 - Python 3.8+
-- Doanload Chrome browser
+- Downloaded Chrome browser
 - Installed packages:
  - `selenium 4.23.0`
 
