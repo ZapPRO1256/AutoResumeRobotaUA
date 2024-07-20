@@ -1,4 +1,4 @@
-# AutoResumeRobotaUA
+# UpdateResumeRobotaUA
 
 A program for automatically raising a resume to the top of the search on the site robota.ua
 
