@@ -1,6 +1,6 @@
-# ResumeParserRobotaUA
+# AutoResumeRobotaUA
 
-A parser for constantly updating resumes to be constantly on top of the search
+A program for automatically raising a resume to the top of the search on the site robota.ua
 
 ## Contents
 
